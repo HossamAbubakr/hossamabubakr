@@ -8,7 +8,7 @@
 ### <div align="center"> 👨‍💻 Shooting for the stars, aiming for the moon 🚀</div>  
   
 
-- 🔭 I’m currently working on [Creating content for my students](https://udacity.com/)  
+- 🔭 I’m currently working on [Creating content for my students](https://www.youtube.com/channel/UChiOXFfJR6WL1yVEnls8WWw)  
   
 
 - 🌱 I’m currently learning AWS and Azure full stack development  
@@ -93,7 +93,7 @@
 <a href="https://linkedin.com/in/hossamabubakr" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.youtube.com/user/https://www.youtube.com/channel/UChiOXFfJR6WL1yVEnls8WWw" target="_blank">
+<a href="https://www.youtube.com/channel/UChiOXFfJR6WL1yVEnls8WWw" target="_blank">
 <img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
 </a>  
 </div>  
