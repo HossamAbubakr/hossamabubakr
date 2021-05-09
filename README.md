@@ -17,7 +17,7 @@
 - ❓ Ask me about anything related to **React** and related technologies  
   
 
-- ⚡ Fun fact: I use tabs over spaces  
+- ⚡ Fun fact: I prefer Yarn over NPM
   
 
 <br/>  
