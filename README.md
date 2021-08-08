@@ -4,20 +4,20 @@
 </div>  
   
 
-### <div align="center">I'm Hossam, a full-time full-stack developer</div>  
+### <div align="center">I'm Hossam, a full-stack engineer</div>  
 ### <div align="center"> 👨‍💻 Shooting for the stars, aiming for the moon 🚀</div>  
   
 
-- 🔭 I’m currently working on [Creating content for my students](https://www.youtube.com/channel/UChiOXFfJR6WL1yVEnls8WWw)  
+- 🔭 I’m currently working on helping many Udacity students achieve their dreams
   
 
 - 🌱 I’m currently learning AWS and Azure full stack development  
   
 
-- ❓ Ask me about anything related to **React** and related technologies  
+- ❓ Ask me about anything related to **MERN Stack** technologies  
   
 
-- ⚡ Fun fact: I prefer Yarn over NPM
+- ⚡ Fun fact: I first learned how to code in 2008 to understand how keyloggers worked!
   
 
 <br/>  
